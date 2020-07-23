@@ -1,4 +1,5 @@
 # front list
 1. HTML
 2. CSS
-3. jQuery
+3. Javascript
+4. jQuery
